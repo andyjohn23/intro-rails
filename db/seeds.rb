@@ -1,0 +1,5 @@
+Post.create(title: "First post", description: "testing our first post", rate: 5)
+Post.create(title: "Second post", description: "testing our first post", rate: 5)
+Post.create(title: "Third post", description: "testing our first post", rate: 5)
+Post.create(title: "Fourth post", description: "testing our first post", rate: 5)
+Post.create(title: "Fifth post", description: "testing our first post", rate: 5)
